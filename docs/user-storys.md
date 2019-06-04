@@ -10,3 +10,5 @@
 - **Task bearbeiten**
 - **Task verschieben**
 - **Task\s löschen**
+
+> [Wier erstellt man passende User Storys](https://www.business-wissen.de/artikel/scrum-so-erstellen-sie-gute-user-stories/)
