@@ -26,5 +26,8 @@
 5. **Task\s löschen**
    1. Task per API? und aus Liste löschen
    2. Undo-Funktion erstellen
+6. **Erinnerung Meldung für Task** (nice to have)
+   1. Push-Mitteilung erstellen
+   2. Mitteilung an Handy senden
 
 > [Wier erstellt man passende User Storys](https://www.business-wissen.de/artikel/scrum-so-erstellen-sie-gute-user-stories/)
