@@ -2,4 +2,6 @@
 
 > Repository für Projekt M226B + M120
 
-## [docs](docs.md)
+## [docs](docs/docs.md)
+
+## [Mockups](mockups/mockups.md)
