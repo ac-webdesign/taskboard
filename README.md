@@ -8,7 +8,7 @@ Die Tasks können logischerweise auch gelöscht werden. Per Push-Mitteilung aufs
 
 ## Programm
 
-### [Taskplan - Frontend](taskplan.md)
+### [Taskplan - Frontend](Taskplan/taskplan.md)
 
 ## Dokumentation
 
