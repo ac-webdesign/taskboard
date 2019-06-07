@@ -1,4 +1,4 @@
-# taskboard
+# taskplan
 
 > Repository für Projekt M226B + M120
 
