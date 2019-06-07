@@ -4,6 +4,12 @@
 >
 > Dies sollte der User können:
 
+- Als [User] will ich [einen Task erstellen] können
+- Als [User] will ich [einen Sub-Task erstellen] können
+- Als [User] will ich [einen Task zu einem anderen Overlay verschieben] können
+- Als [User] will ich [einen Task löschen] können
+- Als [Programm] will ich [eine Erinnerung senden, falls ein Task zu erledigen ist], damit der [Uuser] [informiert ist]
+
 1. **Overlay erstellen**
    1. Grundstruktur mit Responsive erstellen
    2. Nötige Klassen erstellen
