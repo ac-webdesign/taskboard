@@ -6,6 +6,10 @@ Diese können je nach Status (TO DO, IN PROCESS, DONE) zu der jeweiligen Auflist
 
 Die Tasks können logischerweise auch gelöscht werden. Per Push-Mitteilung aufs Mobile-Gerät wird eine Erinnerung für die Erledigung der Aufgabe gesendet.
 
+## Programm
+
+### [Taskplan - Frontend](taskplan.md)
+
 ## Dokumentation
 
 ### [docs](docs/docs.md)
