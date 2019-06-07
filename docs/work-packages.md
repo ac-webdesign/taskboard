@@ -18,19 +18,14 @@
    2. Task per API? oder Objekt speichern
    3. Task bearbeiten können
    4. Task bei Auflistung anzeigen
-6. **Sub-Task erfassen** - Alle
-   1. Button für Erfassung erstellen
-   2. Sub-Task per API? oder Objekt speichern
-   3. Task bearbeiten können
-   4. Sub-Task bei Task-Auflistung anzeigen
-7. **Task verschieben** - Alle
+6. **Task Status ändern** - Alle
    1. Verschiebe Button erstellen
    2. Task zu TO DO, Process, DONE verschieben können
    3. Änderung speichern können
    4. Verschiebung anzeigen
-8. **Task\s löschen** - Alle
+7. **Task\s löschen** - Alle
    1. Task per API? und aus Liste löschen
    2. Undo-Funktion erstellen
-9. **Erinnerung Meldung für Task** - Alle
+8. **Erinnerung Meldung für Task** - Alle
     1. Push-Mitteilung erstellen
     2. Mitteilung an Handy senden
