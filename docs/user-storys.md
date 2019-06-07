@@ -6,8 +6,8 @@
 
 - Als User will ich einen Task erstellen können
 - Als User will ich einen Sub-Task erstellen können
-- Als User will ich einen Task zu einem anderen Overlay verschieben] können
+- Als User will ich den Status des Tasks verändern können
 - Als User will ich einen Task löschen können
-- Als Programm will ich eine Erinnerung senden, falls ein Task zu erledigen ist, damit ich informiert bin.
+- Als Programm will ich eine Erinnerung als Push-Mitteilung aufs Mobile-Gerät senden, falls ein Task zu erledigen ist, damit der User informiert ist.
 
 > [Wie erstellt man passende User Storys](https://www.business-wissen.de/artikel/scrum-so-erstellen-sie-gute-user-stories/)
