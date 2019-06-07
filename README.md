@@ -6,6 +6,8 @@ Diese können je nach Status (TO DO, IN PROCESS, DONE) zu der jeweiligen Auflist
 
 Die Tasks können logischerweise auch gelöscht werden. Per Push-Mitteilung aufs Mobile-Gerät wird eine Erinnerung für die Erledigung der Aufgabe gesendet.
 
-## [docs](docs/docs.md)
+## Dokumentation
 
-## [Mockups](mockups/mockups.md)
+### [docs](docs/docs.md)
+
+### [Mockups](mockups/mockups.md)
