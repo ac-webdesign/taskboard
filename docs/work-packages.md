@@ -23,7 +23,7 @@
    2. Sub-Task per API? oder Objekt speichern
    3. Task bearbeiten können
    4. Sub-Task bei Task-Auflistung anzeigen
-7. **Task verschieben** - Alle 
+7. **Task verschieben** - Alle
    1. Verschiebe Button erstellen
    2. Task zu TO DO, Process, DONE verschieben können
    3. Änderung speichern können
