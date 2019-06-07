@@ -9,7 +9,7 @@
    2. Github Projekt erstellen
    3. DotNet Core API erstellen für Cross-Plattform
    4. Klassen und Controllers erstellen/hinzufügen
-4. **Overlay erstellen** - RF - Zeit: 4 Stunden
+4. **Overlay erstellen** - RV - Zeit: 4 Stunden
    1. Grundstruktur mit Responsive erstellen
    2. Nötige Klassen erstellen
    3. Entwicklungsumgebung ohne weitere Funktionen vorbereiten
