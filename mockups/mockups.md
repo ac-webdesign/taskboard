@@ -1,11 +1,8 @@
 # Mockups
 
-## [AC Ideen](ac/ac.md)
-
-## Mario Ideen
-
-![Mockup Bild 1](https://github.com/ac-webdesign/taskplan/blob/master/mockups/Mockup_1.2.PNG)
-
-![Mockup Bild 2](https://github.com/ac-webdesign/taskplan/blob/master/mockups/Mockup_2.PNG)
-
-![Mockup Bild 3](https://github.com/ac-webdesign/taskplan/blob/master/mockups/Mockup_3.PNG)
+- Overlay  
+  ![Mockup Bild 1](Mockup_1.2.PNG)
+- Task erfassen, bearbeiten und Löschen. Erinnerungs hinzufügen.  
+  ![Mockup Bild 2](Mockup_2.PNG)
+- Overlay Vorschau auf Handy  
+  ![Mockup Bild 3](Mockup_3.PNG)
