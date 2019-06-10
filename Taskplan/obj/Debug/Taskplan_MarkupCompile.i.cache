@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\git\taskplan\Taskplan\App.xaml
-2-1463430665
+2-1212398028
 
-7-1892619675
+7-1144258587
 131569487696
-MainWindow.xaml;taskplan-task.xaml;
+taskplan.xaml;taskplan-task.xaml;
 
-False
+True
 

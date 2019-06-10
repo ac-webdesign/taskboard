@@ -19,11 +19,9 @@ C:\git\taskplan\Taskplan\bin\Debug\Taskplan.exe.config
 C:\git\taskplan\Taskplan\bin\Debug\Taskplan.exe
 C:\git\taskplan\Taskplan\bin\Debug\Taskplan.pdb
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan.csprojAssemblyReference.cache
-C:\git\taskplan\Taskplan\obj\Debug\MainWindow.g.cs
 C:\git\taskplan\Taskplan\obj\Debug\App.g.cs
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan_MarkupCompile.cache
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan_MarkupCompile.lref
-C:\git\taskplan\Taskplan\obj\Debug\MainWindow.baml
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan.g.resources
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan.Properties.Resources.resources
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan.csproj.GenerateResource.cache
@@ -32,3 +30,5 @@ C:\git\taskplan\Taskplan\obj\Debug\Taskplan.exe
 C:\git\taskplan\Taskplan\obj\Debug\Taskplan.pdb
 C:\git\taskplan\Taskplan\obj\Debug\taskplan-task.g.cs
 C:\git\taskplan\Taskplan\obj\Debug\taskplan-task.baml
+C:\git\taskplan\Taskplan\obj\Debug\taskplan.g.cs
+C:\git\taskplan\Taskplan\obj\Debug\taskplan.baml

@@ -59,7 +59,7 @@
     <Compile Include="taskplan-task.xaml.cs">
       <DependentUpon>taskplan-task.xaml</DependentUpon>
     </Compile>
-    <Page Include="MainWindow.xaml">
+    <Page Include="taskplan.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -67,8 +67,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
+    <Compile Include="taskplan.xaml.cs">
+      <DependentUpon>taskplan.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
     <Page Include="taskplan-task.xaml">
