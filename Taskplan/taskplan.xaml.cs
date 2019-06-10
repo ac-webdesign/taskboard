@@ -23,22 +23,13 @@ namespace Taskplan
         public MainWindow()
         {
             InitializeComponent();
-     
-
-
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void New_Task(object sender, RoutedEventArgs e)
         {
-            Window1 win2 = new Window1();
-            win2.Show();
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Window1 win2 = new Window1();
-            win2.Show();
-        
+            Task newTaskWindow = new Task();
+            //newTaskWindow.Show();
+            newTaskWindow.ShowDialog();
         }
     }
 }

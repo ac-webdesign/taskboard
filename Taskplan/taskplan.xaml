@@ -1,0 +1,30 @@
+﻿<Window x:Class="Taskplan.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Taskplan"
+        mc:Ignorable="d"
+        Title="Taskplan - Home" ResizeMode="NoResize" Height="450" Width="800">
+    <Grid Margin="8,10,0,0" HorizontalAlignment="Left" Width="757" Height="399" VerticalAlignment="Top">
+        <Button Content="Neu" Margin="672,350,10.333,0" VerticalAlignment="Top" Height="31" BorderBrush="#FF70DA34" Background="#FFA3E810" Click="New_Task"/>
+        <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,46,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,131,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.535,2.768"/>
+        <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,87,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.535,2.768"/>
+        <Rectangle Fill="#FF30B076" HorizontalAlignment="Left" Height="44" Margin="90,32,0,0" Stroke="Black" VerticalAlignment="Top" Width="556" AutomationProperties.HelpText="Task 1"/>
+        <Rectangle Fill="#FFEDF504" HorizontalAlignment="Left" Height="44" Margin="90,76,0,0" Stroke="Black" VerticalAlignment="Top" Width="556" AutomationProperties.HelpText="Task 1"/>
+        <Rectangle Fill="#FFFC0000" HorizontalAlignment="Left" Height="44" Margin="90,120,0,0" Stroke="Black" VerticalAlignment="Top" Width="556" AutomationProperties.HelpText="Task 1"/>
+        <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,174,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,259,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.535,2.768"/>
+        <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,215,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.535,2.768"/>
+        <Rectangle Fill="#FF30B076" HorizontalAlignment="Left" Height="44" Margin="90,160,0,0" Stroke="Black" VerticalAlignment="Top" Width="556" AutomationProperties.HelpText="Task 1"/>
+        <Rectangle Fill="#FFEDF504" HorizontalAlignment="Left" Height="44" Margin="90,204,0,0" Stroke="Black" VerticalAlignment="Top" Width="556" AutomationProperties.HelpText="Task 1"/>
+        <Rectangle Fill="#FFFC0000" HorizontalAlignment="Left" Height="44" Margin="90,248,0,0" Stroke="Black" VerticalAlignment="Top" Width="556" AutomationProperties.HelpText="Task 1"/>
+        <Label Content="12.15" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="12.15" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top"/>
+        <Label Content="12.15" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.589,1.746"/>
+        <Label Content="12.15" HorizontalAlignment="Left" Margin="10,168,0,0" VerticalAlignment="Top"/>
+        <Label Content="12.15" HorizontalAlignment="Left" Margin="10,215,0,0" VerticalAlignment="Top"/>
+        <Label Content="12.15" HorizontalAlignment="Left" Margin="10,256,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.556,-0.012"/>
+    </Grid>
+</Window>
