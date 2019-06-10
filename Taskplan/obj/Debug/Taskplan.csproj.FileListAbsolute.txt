@@ -11,6 +11,11 @@ C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\Taskplan.csproj.Gene
 C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\Taskplan.csproj.CoreCompileInputs.cache
 C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\Taskplan.exe
 C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\Taskplan.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\Window1.g.cs
+C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\Window1.baml
+>>>>>>> f891a113bb062e9e4260a1db7b15e01b57d313e4
 C:\git\taskplan\Taskplan\bin\Debug\Taskplan.exe.config
 C:\git\taskplan\Taskplan\bin\Debug\Taskplan.exe
 C:\git\taskplan\Taskplan\bin\Debug\Taskplan.pdb

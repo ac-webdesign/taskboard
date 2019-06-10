@@ -28,8 +28,8 @@ namespace Taskplan
         private void New_Task(object sender, RoutedEventArgs e)
         {
             Task newTaskWindow = new Task();
-            //newTaskWindow.Show();
-            newTaskWindow.ShowDialog();
+            newTaskWindow.Show();
+
         }
     }
 }

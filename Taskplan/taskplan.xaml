@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Taskplan"
         mc:Ignorable="d"
+
         Title="Taskplan - Home" ResizeMode="NoResize" Height="450" Width="800">
+
+        
+
     <Grid Margin="8,10,0,0" HorizontalAlignment="Left" Width="757" Height="399" VerticalAlignment="Top">
         <Button Content="Neu" Margin="672,350,10.333,0" VerticalAlignment="Top" Height="31" BorderBrush="#FF70DA34" Background="#FFA3E810" Click="New_Task"/>
         <Button Content="Bearbeiten" HorizontalAlignment="Left" Margin="662,46,0,0" VerticalAlignment="Top" Width="75"/>
