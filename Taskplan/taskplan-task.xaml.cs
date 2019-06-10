@@ -17,13 +17,11 @@ namespace Taskplan
     /// <summary>
     /// Interaktionslogik für Window1.xaml
     /// </summary>
-    public partial class Window1 : Window
+    public partial class Task : Window
     {
-        public Window1()
+        public Task()
         {
             InitializeComponent();
         }
-
-       
     }
 }

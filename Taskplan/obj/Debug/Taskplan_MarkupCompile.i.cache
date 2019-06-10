@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\
+C:\git\taskplan\Taskplan\obj\Debug\
 Taskplan
 none
 false
 DEBUG;TRACE
-C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\App.xaml
-2462529049
+C:\git\taskplan\Taskplan\App.xaml
+2-1463430665
 
-71586982127
+7-1892619675
 131569487696
-MainWindow.xaml;Window1.xaml;
+MainWindow.xaml;taskplan-task.xaml;
 
-True
+False
 
