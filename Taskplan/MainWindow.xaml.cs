@@ -33,5 +33,12 @@ namespace Taskplan
             Window1 win2 = new Window1();
             win2.Show();
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Window1 win2 = new Window1();
+            win2.Show();
+        
+        }
     }
 }
