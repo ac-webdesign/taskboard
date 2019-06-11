@@ -37,3 +37,7 @@ C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan.g.cs
 C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan-task.g.cs
 C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan.baml
 C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan-task.baml
+C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan-make-task.g.cs
+C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan-edit-task.g.cs
+C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan-make-task.baml
+C:\Users\Zuloi\Documents\GitHub\taskplan\Taskplan\obj\Debug\taskplan-edit-task.baml

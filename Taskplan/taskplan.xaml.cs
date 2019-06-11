@@ -27,9 +27,45 @@ namespace Taskplan
 
         private void New_Task(object sender, RoutedEventArgs e)
         {
-            Task newTaskWindow = new Task();
+            taskplan_make_task newTaskWindow = new taskplan_make_task();
             newTaskWindow.Show();
 
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Task newTaskWindow = new Task();
+            newTaskWindow.Show();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Task newTaskWindow = new Task();
+            newTaskWindow.Show();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Task newTaskWindow = new Task();
+            newTaskWindow.Show();
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Task newTaskWindow = new Task();
+            newTaskWindow.Show();
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            Task newTaskWindow = new Task();
+            newTaskWindow.Show();
+        }
+
+        private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+            Task newTaskWindow = new Task();
+            newTaskWindow.Show();
         }
     }
 }

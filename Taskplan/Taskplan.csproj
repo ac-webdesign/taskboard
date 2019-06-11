@@ -56,9 +56,16 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="taskplan-task.xaml.cs">
-      <DependentUpon>taskplan-task.xaml</DependentUpon>
+    <Compile Include="taskplan-make-task.xaml.cs">
+      <DependentUpon>taskplan-make-task.xaml</DependentUpon>
     </Compile>
+    <Compile Include="taskplan-edit-task.xaml.cs">
+      <DependentUpon>taskplan-edit-task.xaml</DependentUpon>
+    </Compile>
+    <Page Include="taskplan-make-task.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="taskplan.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -71,7 +78,7 @@
       <DependentUpon>taskplan.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="taskplan-task.xaml">
+    <Page Include="taskplan-edit-task.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
