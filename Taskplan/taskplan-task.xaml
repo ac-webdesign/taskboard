@@ -5,20 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Taskplan"
         mc:Ignorable="d"
-        Title="Taskplan - Task" Height="450" Width="800">
+        Title="Taskplan - Task" ResizeMode="NoResize" Height="450" Width="800">
     <Grid>
         <Grid Height="79" Margin="10,25,10.333,0" VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="156*"/>
                 <ColumnDefinition Width="493*"/>
             </Grid.ColumnDefinitions>
-            <DatePicker Margin="10,6,17,42"/>
-            <TextBox Margin="11,10,10,6" TextWrapping="Wrap" Text="TextBox" Grid.Column="1"/>
+            <TextBox Margin="11,10,10,6" TextWrapping="Wrap" Grid.Column="1"/>
             <DatePicker Margin="10,42,18,6"/>
+            <Label Content="12.15" HorizontalAlignment="Left" Margin="55,0,0,0" VerticalAlignment="Top" Width="64" FontSize="20" FontWeight="Bold"/>
         </Grid>
-        <Grid Margin="81,109,0,0" HorizontalAlignment="Left" Width="112" Height="81" VerticalAlignment="Top">
+        <Grid Margin="43,109,0,0" HorizontalAlignment="Left" Width="112" Height="86" VerticalAlignment="Top">
 
-            <Button Content="" Margin="0,0,45,14" Background="#FFC8CD6B" HorizontalAlignment="Right" Width="30" Height="30" VerticalAlignment="Bottom"/>
+            <Button Content="" Margin="0,0,45,10" Background="#FFC8CD6B" HorizontalAlignment="Right" Width="30" Height="30" VerticalAlignment="Bottom"/>
             <Label Content="Kategorie" Margin="0,0,10,49" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" Height="32" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="94"/>
         </Grid>
         <ComboBox Margin="209,118,463.333,0" BorderBrush="White" Height="22" VerticalAlignment="Top"/>
@@ -27,8 +27,8 @@
                 <ColumnDefinition Width="187*"/>
                 <ColumnDefinition Width="182*"/>
             </Grid.ColumnDefinitions>
-            <Button Content="Löschen" Margin="0,10,10,11" Background="#FFF54C44" HorizontalAlignment="Right" Width="75"/>
-            <Button Content="Speichern" Margin="0,10,8,11" Background="#FF71EE4D" HorizontalAlignment="Right" Width="75" Grid.Column="1"/>
+            <Button Content="Löschen" Margin="0,10,10,11" Background="#FFF54C44" BorderBrush="#FFF54C44" HorizontalAlignment="Right" Width="75" Click="Button_Click_1"/>
+            <Button Content="Speichern" Margin="0,10,8,11" Background="#FF70DA34" BorderBrush="#FF70DA34" HorizontalAlignment="Right" Width="75" Grid.Column="1"/>
         </Grid>
     </Grid>
 </Window>

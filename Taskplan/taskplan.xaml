@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Taskplan"
         mc:Ignorable="d"
-
         Title="Taskplan - Home" ResizeMode="NoResize" Height="450" Width="800">
 
         
